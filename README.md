@@ -21,12 +21,3 @@ and check the key interactive elements of the webpage (menu toggle, animations, 
 > Make sure `chromedriver` is installed and added to your system PATH.  
 > You can check it by running in terminal:  
 > `chromedriver --version`
-
----
-
-## Setup and Run
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
